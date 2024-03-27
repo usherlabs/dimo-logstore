@@ -1,0 +1,23 @@
+{
+  "name": "dimo-logstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "query": "tsx query.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@logsn/client": "^0.0.19",
+    "streamr-client": "^8.5.5",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.3"
+  }
+}
