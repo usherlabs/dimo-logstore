@@ -1,4 +1,4 @@
-# Storing DIMO data using Log Store
+# Query DIMO Vehicles Data Using Log Store
 
 ## Requirements
 
