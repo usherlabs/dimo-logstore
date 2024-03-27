@@ -1,5 +1,8 @@
 # Query DIMO Vehicles Data Using Log Store
 
+This project demonstrates a simple method to query DIMO vehicles data using Log Store. Our team has previously staked this specific stream, enabling it to be queried by anyone. However, it's important to note that decryption is only possible by those permitted by the stream owner, as this is a private stream. If you're interested in learning how to store or query your own streams, please refer to the [Log Store Docs](https://docs.logstore.usher.so/).
+
+
 ## Requirements
 
 - Node 18+
